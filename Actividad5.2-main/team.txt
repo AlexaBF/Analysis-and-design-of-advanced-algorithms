@@ -1,0 +1,6 @@
+nombre: Alexa Basurto Flores
+Matricula: A01422793
+tomando codigo de las primeras entregas para dividir los datos entrantes de la bitacora 
+y dividir las ips y quitarles el cero, para poder convertir los llaves se sumo los
+caracteres de la llave y se obtuvo el residuo(%) de ese resultado por el tamaño de la tabla
+para guardar los datos en la tabla de hash.
