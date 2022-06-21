@@ -1,0 +1,7 @@
+Estudiante : Alexa Basurto Flores 
+Matricula : A01422793
+
+utilizando los conceptos vistos en clase sobre grafos.
+utilize un vector para simular una lista de adyacencia que guardara los datos
+de la bitacora y dentro de la clase Grafo separe datos, revise el grado de salida de cada ip y host,
+despues imprime la red y el host con mayor grado de salida.
