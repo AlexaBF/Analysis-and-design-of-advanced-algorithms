@@ -1,0 +1,5 @@
+Z= 753.24
+
+ala_12_la = 42.4 *(27 - ha)/       23.5e6//comentario
+
+d = a ^ b * c - 23 // Esto es un comentario
