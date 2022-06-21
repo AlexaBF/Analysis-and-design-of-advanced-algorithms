@@ -1,0 +1,35 @@
+cantidad de elementos: 5
+2
+-4
+5
+-2
+23
+
+
+
+cantidad de elementos: 10
+2.42
+-4.
+.5
+-2.00000002
+32.32
+32.3
+12
+21.1
+1.23
+1.25
+
+
+cantidad de elementos: 5
+242
+-4.
+.5
+-2.00000002
+-.1
+
+cantidad de elementos: 5
++12.
+-.2
++.3
++.333333
++12.1234
